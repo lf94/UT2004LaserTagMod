@@ -1,8 +1,7 @@
 //=============================================================================
 // TagRules.
 //=============================================================================
-class TagRules extends GameRules
-	placeable;
+class TagRules extends GameRules;
 
 
 var Tag TagGame;
