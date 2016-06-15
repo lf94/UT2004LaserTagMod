@@ -1,4 +1,4 @@
-# UT2004LaserTagMod
+# UT2004LaserTag
 Play a game of Laser Tag in UT2004.
 
 This GameType is highly recommended to be used with Zoom/Instagib and Super Berserker mutators.
